@@ -9,4 +9,4 @@ class tsugeDiary(AbstractDiary):
         return "なにもない一日だった"
     
     def get_author(self):
-        return "柘植"
+        return "tsuge"
