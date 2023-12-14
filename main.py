@@ -1,5 +1,6 @@
 from diaries.DiarySample import DiarySample
 from diaries.MakinoDiary import MakinoDiary
+from diaries.NagaoDiary import NagaoDiary
 from diaries.k22133Diary import k22133Diary
 from diaries.TomonoriDiary import TomonoriDiary
 
@@ -7,6 +8,7 @@ from diaries.TomonoriDiary import TomonoriDiary
 diaries = [
     DiarySample(),
     MakinoDiary(),
+    NagaoDiary(),
     k22133Diary(),
     TomonoriDiary(),
 ]
