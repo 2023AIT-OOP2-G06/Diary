@@ -1,9 +1,11 @@
 from diaries.DiarySample import DiarySample
+from diaries.MakinoDiary import MakinoDiary
 from diaries.k22133Diary import k22133Diary
 
 # ↓のリストには、メンバーの各日記が格納されます。
 diaries = [
-    DiarySample(), 
+    DiarySample(),
+    MakinoDiary(),
     k22133Diary()
 ]
 
