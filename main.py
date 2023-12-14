@@ -9,7 +9,7 @@ diaries = [
     DiarySample(),
     MakinoDiary(),
     NagaoDiary(),
-    k22133Diary()
+    k22133Diary(),
     TomonoriDiary(),
 ]
 
