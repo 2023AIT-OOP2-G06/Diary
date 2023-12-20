@@ -5,6 +5,7 @@ from diaries.NagaoDiary import NagaoDiary
 from diaries.k22133Diary import k22133Diary
 from diaries.TomonoriDiary import TomonoriDiary
 from diaries.TerataniDiary import TerataniDiary
+from diaries.SuzukiDiary import SuzukiDiary
 
 # ↓のリストには、メンバーの各日記が格納されます。
 diaries = [
@@ -15,6 +16,7 @@ diaries = [
     TomonoriDiary(),
     HiranoDiary(),
     TerataniDiary(),
+    SuzukiDiary(),
 ]
 
 
